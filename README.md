@@ -1,14 +1,14 @@
 # Creacion de una calculadora simple con flex y bison
 ## Elaborado por juan pablo de jesus figueroa jaramillo
-Caculator
+Caculadora simple
 =========
 Use lex & bison para implementar una calculadora simple.
 
-## Dependencies
+## Dependencias
   - `lex`: analizador léxico, "escáner" o "lexer"
   - `bison`: generador de analizador
 
-## Ubuntu Installation
+## Instalacion en Ubuntu
   - Instala flex y bison
 ```
 sudo apt-get install flex bison
