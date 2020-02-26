@@ -1,6 +1,6 @@
 Caculator
 =========
-Use lex & bison to implement a simple calculator.
+Use lex & bison para implementar una calculadora simple.
 
 ## Dependencies
   - `lex`: analizador léxico, "escáner" o "lexer"
