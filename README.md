@@ -1,3 +1,5 @@
+# Creacion de una calculadora simple con flex y bison
+## Elaborado por juan pablo de jesus figueroa jaramillo
 Caculator
 =========
 Use lex & bison para implementar una calculadora simple.
