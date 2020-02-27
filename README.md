@@ -47,7 +47,7 @@ make
 =   -1
 > b=sqrt(100);
 =   10
-> while (b>0) do {b=b-1; print(b);}
+> while (b>0) do {print(b); b=b-1;}
 =    9
 =    8
 =    7
